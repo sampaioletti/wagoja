@@ -10,7 +10,7 @@ go run main.go ./path/to/emscripten/js/file.js
 
 ## What is it
 
-wagoja is a dumpster fire mashup of github.com/go-interpreter/wagon and github.com/dop251/goja (hence the name WAgon GOja)
+wagoja is a dumpster fire mashup of github.com/go-interpreter/wagon and github.com/dop251/goja (hence the name WAGon gOJA)
 
 Both are excellent projects, so no shade on them (: this was just an experiment
 
